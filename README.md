@@ -52,5 +52,5 @@ Feel free to open issues or submit pull requests. Suggestions are welcome!
 
 ---
 
-### Made with 💡 by Mr.Omar
+### Made with 💡 by OmerFirig
 
